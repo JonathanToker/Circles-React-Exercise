@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
-
+Challenge: 
+Create a div element that where you click on it there will be a circle, have 3 buttons to redo, undo and reset the circles:
 ![image](https://github.com/JonathanToker/Circles-React-Exercise/assets/116793943/0cc8f6ee-4f16-408a-8332-90477029fde3)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Currently, two official plugins are available:
